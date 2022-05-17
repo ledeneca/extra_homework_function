@@ -1,1 +1,1 @@
-# extra_homework_function
+A simple command-line application.
